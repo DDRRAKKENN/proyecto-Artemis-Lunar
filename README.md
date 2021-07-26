@@ -16,3 +16,11 @@ En lo que respecta a herramientas para este trabajo se utilizaran las propias de
   3- Jupyter notebooks para el armado del informe.
 
 La idea del ejercicio es combinar las diferentes herramientas para realizar un calculo que nos permita llegar a una conclusion donde podremos decirles a los astronautas lo que deberian hacer.
+
+La estructura del trabajo se deberia ver asi:
+
+![](https://github.com/DDRRAKKENN/proyecto-Artemis-Lunar/blob/master/estructura%20proyecto%20Artemis.jpg)
+
+Algunas imagenes de como se ve el proyecto:
+
+![]
