@@ -23,4 +23,6 @@ La estructura del trabajo se deberia ver asi:
 
 Algunas imagenes de como se ve el proyecto:
 
-![]
+![](https://github.com/DDRRAKKENN/proyecto-Artemis-Lunar/blob/master/1.jpg)
+
+![](https://github.com/DDRRAKKENN/proyecto-Artemis-Lunar/blob/master/2.jpg)
